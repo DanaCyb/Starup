@@ -63,5 +63,18 @@ img {
 
 .feature-content {
     padding: 8rem 0;
-    overflow: hidden
+    overflow: hidden;
+}
+
+.feature-content img {
+    margin-bottom: -8rem;
+}
+
+.feature-dark {
+    background: #262f36;
+    color: white;
+}
+
+.feature-dark h2 {
+    color: white;
 }
